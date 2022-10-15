@@ -17,13 +17,6 @@ console.log(userSalaries);
 alert(userSalaries);
 
 
-/*let a = 5;
-let b = 6;
-let c = 10;
-if (a + b + c >= 21){
-    alert(21);
-}*/
-
 let sum = {
     a: 5,
     b: 6,
@@ -38,6 +31,7 @@ if(data === true){
     number = 5;
 }*/
 
+let date = (number == )
 
 
 
