@@ -37,11 +37,19 @@ example([4, 1, 1, 1, 4]) => [8, 2, 2, 2, 8]
 example([2, 2, 2, 2, 2, 2]) => [4, 4, 4, 4, 4, 4]*/
 
 let num = [5, 10, 15, 20, 25];
-for (let i = 0; i < num.length; i++){
-    if (num > 0){
-        continue;
-    }
-    console.log(num[i]);
-}
+num[0] = num[0] * 2;
+num[1] = num[1] * 2;
+num[2] = num[2] * 2;
+num[3] = num[3] * 2;
+num[4] = num[4] * 2;
+console.log(num);
+
+
+// for (let i = 0; i < num.length; i++){
+//     if (num > 0){
+//         continue;
+//     }
+//     console.log(num[i]);
+// }
 
 
