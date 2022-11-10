@@ -1,0 +1,12 @@
+div{
+    border: 2px solid black;
+    padding: 15px;
+    background-color: gray;
+}
+
+footer{
+    border:10px solid #e91e63;
+    padding: 30px 30px;
+    margin-top: 2px ;
+    background-color: lightpink;
+}
